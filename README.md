@@ -35,73 +35,60 @@ Note:
 
 
 ## What is contribution
-
+<!-- .element: class="heading" -->
+<!-- .slide: data-background="custom/images/mentoring.jpg" data-background-size="" data-state="show-header" data-header="" -->
 
 
 
 ## graph placeholder
 
 
-
-
-## Question from Audience during DrupalCon LA
-
-
-
-
-
 ## IRC
 
-not on IRC because it's hard to keep up with.
+## How do I use IRC?
+
+## Difficult to keep up on IRC
+
+## No scroll back
+
+## Setting up bouncer costs money
 
 
-
+## Exploring Alternatives
+drupal.org/node/2490332
+Evaluate whether to replace drupal IRC channels with another communication medium
 
 ## Need an easier way to communicate.
-        What could that be?
-
-
+## subscribe to issue notifications in email
+## https://groups.drupal.org/core/updates
 
 
 ## How do we recognize contribution?
-
-   https://www.drupal.org/node/2230579 [policy, no patch] Allow crediting reviewers (and other non-coders) as first-class contributors
-
-
+www.drupal.org/node/2230579
+[policy, no patch] Allow crediting reviewers (and other non-coders) as first-class contributors
 
 
-## What about code review?
-
-
+## Doc review
 
 
 ## https://www.drupal.org/node/2281763
-
-   make profiles better [Meta] New design for User Profiles
+make profiles better [Meta] New design for User Profiles
 
 
 
 
 ## Credit to mentors?
+Contributors can add mentors at the end of the sprint.
 
-        Contributors can add mentors at the end of the sprint.
+##
+<img src="custom/images/bio-1.png" class="fragment" />
 
-
-
-
-<img src="bio-1.png" class="fragment" />
-
-
+##
+<img src="custom/images/bio-2.png" class="fragment" />
 
 
-<img src="bio-2.png" class="fragment" />
-
-
-
-
-## How do we encourage companies to contribute their developer time?
-
-   cost of using OSS is giving back to the community.
+## Encourage companies to contribute their developer time?
+ cost of using OSS is giving back to the community.
 
 
 
