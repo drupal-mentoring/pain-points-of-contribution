@@ -44,19 +44,120 @@ Note:
 
 
 ## Question from Audience during DrupalCon LA
-<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
-
-Note:
-- Slide with a background image
 
 
 
-<!-- .slide: data-background="custom/images/isle-of-drupal.jpg" data-background-size="1280px" -->
-## Slide title
-<!-- .element: class="hidden" -->
 
-Note:
-- Hidden title
+
+## IRC
+
+not on IRC because it's hard to keep up with.
+
+
+
+
+## Need an easier way to communicate.
+        What could that be?
+
+
+
+
+## How do we recognize contribution?
+
+   https://www.drupal.org/node/2230579 [policy, no patch] Allow crediting reviewers (and other non-coders) as first-class contributors
+
+
+
+
+## What about code review?
+
+
+
+
+## https://www.drupal.org/node/2281763
+
+   make profiles better [Meta] New design for User Profiles
+
+
+
+
+## Credit to mentors?
+
+        Contributors can add mentors at the end of the sprint.
+
+
+
+
+<img src="bio-1.png" class="fragment" />
+
+
+
+
+<img src="bio-2.png" class="fragment" />
+
+
+
+
+## How do we encourage companies to contribute their developer time?
+
+   cost of using OSS is giving back to the community.
+
+
+
+
+## Suggestions
+
+
+
+
+## Get more reviewers
+
+
+
+
+##  Need more documentation, video, audio, walking people through issues
+
+
+
+
+
+## Drupal workflow is very unique and it doesn't apply to other OSS projects.
+
+
+
+
+
+## Make sure that communications that happen in IRC are summarized and documented on issues
+
+
+
+
+
+## Motivation?
+
+
+
+
+
+## Time?
+
+
+
+
+
+## Empathy
+
+
+
+
+## What other OSS projects are doing?
+
+<img src="apache_contributors.png" />
+
+
+
+
+## Is your employer looking to hire any core developer? http://www.drupalcoredevelopers.com/
 
 
 
