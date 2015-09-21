@@ -1,20 +1,34 @@
-## <i class="fa fa-sign-in"></i> Title
+## <i class="fa fa-sign-in"></i> Pain Points of Contribution in the Drupal Community
 ####_Subtitle_
 
 
 
-## [bit.ly/?](http://bit.ly/?)
+## [http://bit.ly/pain-points-contribution](http://bit.ly/pain-points-contribution)
 
 Note:
 - Slides and speaker notes available online
 
 
 
-## Presenter
+## Kgoel
 
-<a href="https://www.drupal.org/u/user"><i class="fa fa-drupal"></i> user</a>
+<a href="https://www.drupal.org/u/kgoel"><i class="fa fa-drupal"></i> kgoel</a>
 
-<a href="https://twitter.com/user"><i class="fa fa-twitter"></i> user</a>
+<a href="https://twitter.com/kalpanagoel"><i class="fa fa-twitter"></i> kalpanagoel</a>
+
+<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+
+
+## Valery Lourie
+
+<a href="https://www.drupal.org/u/valthebald"><i class="fa fa-drupal"></i> valthebald</a>
+
+<a href="https://twitter.com/kalpanagoel"><i class="fa fa-twitter"></i> kalpanagoel</a>
+
+        Note:
+        - About presenter
+
+
 
 Note:
 - About presenter
