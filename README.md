@@ -16,6 +16,9 @@ Note:
 
 <a href="https://twitter.com/kalpanagoel"><i class="fa fa-twitter"></i> kalpanagoel</a>
 
+
+
+
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
 
 
