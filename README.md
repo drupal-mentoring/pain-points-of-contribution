@@ -1,12 +1,13 @@
 ## <i class="fa fa-sign-in"></i> Pain Points of Contribution in the Drupal Community
-####_Subtitle_
+####
 
-
-
-## [http://bit.ly/pain-points-contribution](http://bit.ly/pain-points-contribution)
-
+http://bit.ly/pain-points-in-drupal-community
 Note:
 - Slides and speaker notes available online
+
+## Take notes[http://bit.ly/pain-points-contribution](http://bit.ly/pain-points-contribution)
+
+
 
 
 
@@ -26,7 +27,7 @@ Note:
 
 <a href="https://www.drupal.org/u/valthebald"><i class="fa fa-drupal"></i> valthebald</a>
 
-<a href="https://twitter.com/kalpanagoel"><i class="fa fa-twitter"></i> kalpanagoel</a>
+<a href="https://twitter.com/valthebald"><i class="fa fa-twitter"></i> valthebald</a>
 
 Note:
 - About presenter
