@@ -86,6 +86,8 @@ Need an easier way to communicate
 
 ## subscribe to issue notifications in email
 
+<img src="custom/images/subscribe-core.png" class="fragment" />
+<img src="custom/images/subscribe-mtq.png" class="fragment" />
 
 
 ## https://groups.drupal.org/core/updates
