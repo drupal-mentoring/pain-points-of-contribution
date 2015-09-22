@@ -2,12 +2,11 @@
 
 
 http://bit.ly/pain-points-in-drupal-community
-Note:
-- Slides and speaker notes available online
 
-## Take notes[http://bit.ly/pain-points-contribution](http://bit.ly/pain-points-contribution)
-Note:
-- We encourage you to take notes because more notes are better
+
+
+## Take notes
+[http://bit.ly/pain-points-contribution](http://bit.ly/pain-points-contribution)
 
 
 
@@ -15,6 +14,9 @@ Note:
 Note:
 - bit.ly links for last DrupalCon LA presentation. We encourage you to watch the
 presentation for some background information.
+- We encourage you to take notes because more notes are better
+- Slides and speaker notes available online
+
 
 
 
@@ -28,6 +30,7 @@ Note:
 - Developer at Forum One
 - Forum One is full service digital agency and does lot of work in Drupal for
 Government and non-profit organizations.
+
 
 
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
