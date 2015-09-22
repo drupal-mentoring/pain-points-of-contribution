@@ -1,5 +1,5 @@
-## <i class="fa fa-sign-in"></i> Pain Points of Contribution in the Drupal Community
-###
+## Pain Points of Contribution in the Drupal Community
+
 
 http://bit.ly/pain-points-in-drupal-community
 Note:
