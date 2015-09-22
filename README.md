@@ -65,6 +65,8 @@ Note:
 
 Note:
 - KG
+- We are talking about pain points of contribution but lets talk first...
+What is a contribution?
 -  Contribution is organizing sprints,camps, meet ups, documentation, manual
 testing, design review, UX but here we are going to talk mainly about code
 contribution.
@@ -78,7 +80,7 @@ Note:
 - How many people in the audience use IRC? As you know that Drupal lives on IRC
 and our day to day interaction occur in IRC related to issues in the issue queue
 . For a new contributor, it is hard to know that there is an IRC unless someone
- tell them there is IRC channels that they can join and ask question/have
+ tell them there are IRC channels that they can join and ask question/have
  discussion.
 
 
