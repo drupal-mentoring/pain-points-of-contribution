@@ -15,7 +15,7 @@ Note:
 - bit.ly links for last DrupalCon LA presentation. We encourage you to watch the
 presentation for some background information.
 - We encourage you to take notes because more notes are better
-- Slides and speaker notes available online
+- Slides and speaker notes  will be available online
 
 
 
@@ -52,31 +52,50 @@ Note:
 
 Note:
 - Contribution is not necessarily just code contribution but contribution is
-   organizing sprints,camps, meet ups, documentation, manual testing, design review, UX but here we are going to
-   talk mainly about code contribution.
+   organizing sprints,camps, meet ups, documentation, manual testing, design
+   review, UX but here we are going to talk mainly about code contribution.
 
 
 
 
 ## IRC
+Note:
+- How many people in the audience use IRC? As you know that Drupal lives on IRC
+and our day to day interaction occur in IRC related to issues in the issue queue
+. For a new contributor, it is hard to know that there is an IRC unless someone
+ tell them there is IRC channels that they can join and ask question/have
+ discussion.
+
 
 
 
 ## How do I use IRC?
+Note:
+- Concern for many of the user is - How do I connect to IRC, what channels
+ should I be in?
 
 
 
 ## Difficult to keep up on IRC
-
+Note:
+- There is no indication of "this" user is typing so there are 3 people talking
+together and for example I am asking with someone else. All this get very
+confusing.
 
 
 ## No scroll back
-
+Note:
+- There is no scroll back or history in IRC so if there was an interesting
+conversation and if we aren't there then we don't know about it not that we want
+to know but sometimes we do.
 
 
 ## Setting up bouncer costs money
 Note:
- - Setting up bouncer costs money and it requires technical steps to set it up
+ - Setting up bouncer costs money and it requires technical steps to set it up.
+ Although it's easier later once you have set it up but initially it takes time
+ money.
+
 
 
 
@@ -84,7 +103,7 @@ Note:
 drupal.org/node/2490332
 Evaluate whether to replace drupal IRC channels with another communication medium
 Note -
-Need an easier way to communicate
+We have an issue on D.O. and there are some discussion going on which
 
 
 
@@ -120,7 +139,11 @@ make profiles better [Meta] New design for User Profiles
 
 
 ## Credit to mentors?
-Contributors can add mentors at the end of the sprint.
+
+
+
+
+## Contributors can add mentors at the end of the sprint.
 
 
 
@@ -135,7 +158,10 @@ Contributors can add mentors at the end of the sprint.
 
 
 ## Encourage companies to contribute their developer time?
- cost of using OSS is giving back to the community.
+
+
+
+## cost of using OSS is giving back to the community.
 
 Note:
 There is a BoF on increasing contribution in OSS on Thursday at 11:45 AM
