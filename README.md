@@ -1,7 +1,7 @@
 ## Pain Points of Contribution in the Drupal Community
 
 
-http://bit.ly/pain-points-in-drupal-community
+bit.ly/pain-points-in-drupal-community
 Note:
 - KG
 - Hello Everyone! We are going to talk about "Pain Points of Contribution in the
@@ -12,10 +12,10 @@ link for our session is .....
 
 
 ## Take notes
-[http://bit.ly/pain-points-contribution](http://bit.ly/pain-points-contribution)
+[bit.ly/pain-points-contribution](bit.ly/pain-points-contribution)
 
 ### DrupalCon LA presentation
-http://bit.ly/pain-points-learning-contributing
+bit.ly/pain-points-learning-contributing
 
 Note:
 - KG
@@ -313,7 +313,7 @@ so the issue can move forward.
 Time - Have some time available to work on core so all of us can have time to do
 stuff outside Drupal and still enjoy working on core. I don't know if there is
 any solution for this.
-Empathy 
+Empathy
 
 
 
