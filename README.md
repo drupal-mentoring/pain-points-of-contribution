@@ -42,24 +42,44 @@ Note:
 - About presenter
 
 
+
+
 ## IRC
+
+
 
 ## How do I use IRC?
 
+
+
 ## Difficult to keep up on IRC
+
+
 
 ## No scroll back
 
+
+
 ## Setting up bouncer costs money
+
 
 
 ## Exploring Alternatives
 drupal.org/node/2490332
 Evaluate whether to replace drupal IRC channels with another communication medium
 
+
+
 ## Need an easier way to communicate.
+
+
+
 ## subscribe to issue notifications in email
+
+
+
 ## https://groups.drupal.org/core/updates
+
 
 
 ## How do we recognize contribution?
@@ -67,7 +87,9 @@ www.drupal.org/node/2230579
 [policy, no patch] Allow crediting reviewers (and other non-coders) as first-class contributors
 
 
+
 ## Doc review
+
 
 
 ## https://www.drupal.org/node/2281763
@@ -79,11 +101,16 @@ make profiles better [Meta] New design for User Profiles
 ## Credit to mentors?
 Contributors can add mentors at the end of the sprint.
 
-##
+
+
+## User profile
 <img src="custom/images/bio-1.png" class="fragment" />
 
-##
+
+
+## User profile
 <img src="custom/images/bio-2.png" class="fragment" />
+
 
 
 ## Encourage companies to contribute their developer time?
@@ -148,44 +175,7 @@ Contributors can add mentors at the end of the sprint.
 
 
 
-## Slide title
-<img src="custom/images/" class="fragment">
-
-Note:
-- Image as fragment
 
 
 
-## Slide title
-<!-- .element: class="heading" -->
 
-Note:
-- Title with a box around it
-
-
-
-## Slide title
-<!-- .element: class="heading invert" -->
-
-Note:
-- Inverted
-
-
-
-> <i class="fa fa-quote-left"></i>
-> I mashed the button, but it didn't do anything.
-> <i class="fa fa-quote-right"></i>
-
-Note:
-- Quote
-
-
-
-> <!-- .element: class="invert" -->
-> <i class="fa fa-quote-left"></i>
-> Me too!
-> <i class="fa fa-quote-right"></i>
-> <i class="fa fa-heart fragment current-visible" style="color: #c00;"></i>
-
-Note:
-- Inverted quote with a fragment
