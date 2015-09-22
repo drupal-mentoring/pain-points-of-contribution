@@ -2,20 +2,20 @@
 
 
 http://bit.ly/pain-points-in-drupal-community
-
+Note:
+- Slides and speaker notes  will be available online
 
 
 ## Take notes
 [http://bit.ly/pain-points-contribution](http://bit.ly/pain-points-contribution)
 
-### Notes from LA
+### DrupalCon LA presentation
 http://bit.ly/pain-points-learning-contributing
 
 Note:
 - bit.ly links for last DrupalCon LA presentation. We encourage you to watch the
 presentation for some background information.
 - We encourage you to take notes because more notes are better
-- Slides and speaker notes  will be available online
 
 
 
