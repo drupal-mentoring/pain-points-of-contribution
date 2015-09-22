@@ -102,15 +102,20 @@ Note:
 ## Exploring Alternatives
 drupal.org/node/2490332
 Evaluate whether to replace drupal IRC channels with another communication medium
-Note -
-We have an issue on D.O. and there are some discussion going on which
+Note:
+- Need an easier way to communicate?
+Waartaa (OSS), Slack, Hipchat are some of the option being discussed in this
+issue
 
 
 
 ## subscribe to issue notifications in email
 
 <img src="custom/images/subscribe-core.png"  />
-
+Note:
+- We can subscribe to core issues and get email when there is a new comment made
+on the issue or someone posted a new patch so that's one way to keep inform
+about the changes.
 
 
 
