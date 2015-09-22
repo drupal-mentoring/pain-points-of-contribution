@@ -284,7 +284,7 @@ Note:
 
 
 
-## What other OSS projects are doing?
+##Other OSS projects
 
 <img src="custom/images/apache_contributors.png" />
 Note:
@@ -293,7 +293,7 @@ Note:
 
 
 
-## What other OSS projects are doing?
+## Apache Timeline
 
 <img src="custom/images/Apache_timeline.png" />
 Note:
@@ -306,7 +306,7 @@ contributors.
 
 
 
-## What other OSS projects are doing?
+## Long tail graph
 
 <img src="custom/images/long_tail.png" />
 photo credit: xjm
