@@ -155,22 +155,29 @@ function or method does exactly what it is supposed to do so even I read the
 entire method and looked at the doc but failed to write that in the comment and
 I ended up getting no credit after spending 2 hour on that issue.
 SO in short provide a thorough feedback and not just that this works for me or I
-applied the patch and it worked fine. 
+applied the patch and it worked fine.
 
 
 
 ## https://www.drupal.org/node/2281763
 make profiles better [Meta] New design for User Profiles
+Note:
+- How many people think that their user profile page on Drupal.org is important
+and they have added it to their resume? There has been some improvements made to
+user profile pages on Drupal.org for example - now it shows commit mention on
+ number of issues that has been marked fixed during the last 3 month.  I think
+ its a huge improvement because we do recognize the value of having a nicer
+ user profile pages on D.O
 
 
 
 
 ## Credit to mentors?
-
-
-
-
-## Contributors can add mentors at the end of the sprint.
+Note:
+- Contributors can add mentors at the end of the sprint so whoever is planning
+on attending sprints on Friday, please add mentors to your profile page so they
+can get credit. Mentoring isn't easy and mentors could work on the issues if
+they want to but they spend time with participants and help them work on issues.
 
 
 
@@ -181,7 +188,10 @@ make profiles better [Meta] New design for User Profiles
 
 ## User profile
 <img src="custom/images/bio-2.png" class="fragment" />
-
+Note:
+- This is screenshot of my profile page. As you can see I have listed some
+people as my mentor and it shows that I have got commit mention on 12 issues
+that has been marked fixed during the last 3 month.
 
 
 ## Encourage companies to contribute their developer time?
