@@ -74,7 +74,8 @@ drupal.org/irc
 Note:
 - Concern for many of the user is - How do I connect to IRC, what channels
  should I be in?
-- supposed way to IRC channel for a new person: search for 'start contributing' - go to core mentoring page - go to IRC page
+- supposed way to IRC channel for a new person: search for 'start contributing',
+go to core mentoring page - go to IRC page
 
 
 
@@ -85,7 +86,7 @@ together and for example I am asking with someone else. All this get very
 confusing.
 
 
-## No scroll back
+## No scroll back/history
 Note:
 - There is no scroll back or history in IRC so if there was an interesting
 conversation and if we aren't there then we don't know about it not that we want
@@ -97,6 +98,7 @@ Note:
  - Setting up bouncer costs money and it requires technical steps to set it up.
  Although it's easier later once you have set it up but initially it takes time
  money.
+ What is a bouncer?
 
 
 
@@ -130,8 +132,16 @@ is a weekly-to-monthly update on all the cool happenings in Drupal 8!
 
 
 ## How do we recognize contribution?
-www.drupal.org/node/2230579
+drupal.org/node/2230579
 Allow crediting reviewers (and other non-coders) as first-class contributors
+Note:
+- In this note, we are talking about categorizing comment as review
+types -
+Research - how things are done in Drupal, why it is broken and how other
+projects accomplish something.
+Proposal - If someone propose a idea or a specific architectural change
+Patch - provide a solution or patch
+Reviewers - Provide valuable reviews to the issue
 
 
 
