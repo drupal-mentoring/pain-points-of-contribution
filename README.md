@@ -1,5 +1,5 @@
 ## <i class="fa fa-sign-in"></i> Pain Points of Contribution in the Drupal Community
-####
+###
 
 http://bit.ly/pain-points-in-drupal-community
 Note:
@@ -8,6 +8,8 @@ Note:
 ## Take notes[http://bit.ly/pain-points-contribution](http://bit.ly/pain-points-contribution)
 
 
+
+## http://bit.ly/pain-points-learning-contributing
 
 
 
@@ -19,10 +21,7 @@ Note:
 
 
 
-
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
-
-
 ## Valery Lourie
 
 <a href="https://www.drupal.org/u/valthebald"><i class="fa fa-drupal"></i> valthebald</a>
@@ -34,12 +33,13 @@ Note:
 
 
 
-## What is contribution
 <!-- .element: class="heading" -->
 <!-- .slide: data-background="custom/images/mentoring.jpg" data-background-size="" data-state="show-header" data-header="" -->
+## What is contribution
+Note:
+- About presenter
 
-
-
+<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
 ## graph placeholder
 
 
