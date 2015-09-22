@@ -15,7 +15,7 @@ link for our session is .....
 [bit.ly/pain-points-contribution](bit.ly/pain-points-contribution)
 
 ### DrupalCon LA presentation
-bit.ly/pain-points-learning-contributing
+[bit.ly/pain-points-learning-contributing](bit.ly/pain-points-learning-contributing)
 
 Note:
 - KG
@@ -312,8 +312,9 @@ contributors.
 photo credit: xjm
 Note:
 - As I was talking in the previous slide...you can see long tail of graph. We
-have lots of contributor with 1 to 5 commit mention but we need to encourgae
-them to become repeated contributors.
+have lots of contributor with 1 to 5 commit mention but we need to encourage
+them to be repeated contributors. This graph is little old because we do have
+3150 core contributors.
 
 
 
