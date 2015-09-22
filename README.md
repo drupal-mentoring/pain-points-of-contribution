@@ -34,13 +34,12 @@ Note:
 
 
 <!-- .element: class="heading" -->
-<!-- .slide: data-background="custom/images/mentoring.jpg" data-background-size="" data-state="show-header" data-header="" -->
+<!-- .slide: data-background="custom/images/mentoring.jpg"  data-state="show-header" data-header="" -->
 ## What is contribution
+<!-- .element: class="heading" -->
+
 Note:
 - About presenter
-
-<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
-## graph placeholder
 
 
 ## IRC
