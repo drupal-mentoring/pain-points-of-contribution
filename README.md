@@ -48,7 +48,9 @@ Government and non-profit organizations.
 <a href="https://twitter.com/valthebald"><i class="fa fa-twitter"></i> valthebald</a>
 
 Note:
-- About presenter
+- Drupal developer, devops
+- Founder, Wise Trout Drupal agency
+- I am hirable!
 
 
 
@@ -89,7 +91,7 @@ go to core mentoring page - go to IRC page
 
 ## Difficult to keep up on IRC
 Note:
-- There is no indication of "this" user is typing so there are 3 people talking
+- There is no indication of "this user is typing" so there are 3 people talking
 together and for example I am asking with someone else. All this get very
 confusing.
 
@@ -107,10 +109,10 @@ to know but sometimes we do.
 
 ## Setting up bouncer costs money
 Note:
+ - What is a bouncer?
  - Setting up bouncer costs money and it requires technical steps to set it up.
  Although it's easier later once you have set it up but initially it takes time
  money.
- What is a bouncer?
 
 
 
@@ -120,7 +122,7 @@ drupal.org/node/2490332
 Evaluate whether to replace drupal IRC channels with another communication medium
 Note:
 - Need an easier way to communicate?
-Waartaa (OSS), Slack, Hipchat are some of the option being discussed in this
+Waartaa (OSS), Slack, Hipchat are some of the options being discussed in this
 issue
 
 
@@ -200,13 +202,13 @@ they want to but they spend time with participants and help them work on issues.
 
 
 ## User profile
-<img src="custom/images/bio-1.png" class="fragment" />
+<img src="custom/images/bio-1.png" />
 
 
 
 
 ## User profile
-<img src="custom/images/bio-2.png" class="fragment" />
+<img src="custom/images/bio-2.png" />
 Note:
 - This is screenshot of my profile page. As you can see I have listed some
 people as my mentor and it shows that I have got commit mention on 12 issues
@@ -252,12 +254,16 @@ Note:
 ## What other OSS projects are doing?
 
 <img src="apache_contributors.png" />
-
+Note: @todo
 
 
 
 
 ## Suggestions
+* More reviewers
+* Documentation
+* Workflow
+* Communication
 Note:
 We talked about pain points and here are some of our suggestions to resolve some
 of the pain points ......
@@ -275,6 +281,8 @@ Empathy
 
 
 ## Please don't forget to rate our session
+
+bit.ly/pain-points-in-drupal-community
 
 
 
