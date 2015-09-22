@@ -8,9 +8,9 @@ http://bit.ly/pain-points-in-drupal-community
 ## Take notes
 [http://bit.ly/pain-points-contribution](http://bit.ly/pain-points-contribution)
 
+### Notes from LA
+http://bit.ly/pain-points-learning-contributing
 
-
-## http://bit.ly/pain-points-learning-contributing
 Note:
 - bit.ly links for last DrupalCon LA presentation. We encourage you to watch the
 presentation for some background information.
