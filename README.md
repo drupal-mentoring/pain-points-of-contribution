@@ -134,7 +134,8 @@ and money.
 
 ## Exploring Alternatives
 drupal.org/node/2490332
-Evaluate whether to replace drupal IRC channels with another communication medium
+Evaluate whether to replace drupal IRC channels with another communication
+medium
 Note:
 - KG
 - Need an easier way to communicate?
@@ -187,13 +188,17 @@ Note:
 - KG
 - How do we give credits to reviewers reviewing docs? Use my example - I was
 reviewing doc issue for one of the safemarkup issue and I said I reviewed the
-doc and talked to contributor(who wrote the patch) in-person and I didn't get
-commit credit. Why? Because I didn't say...yes, this line in this patch for this
-function or method does exactly what it is supposed to do so even I read the
-entire method and looked at the doc but failed to write that in the comment and
-I ended up getting no credit after spending 2 hour on that issue.
+doc and talked to contributor(who wrote the patch) in-person about making some
+ changes, changes were made, issue was marked RTBC (if you don't know what is
+RTBC then it is Reviewed and tested by the community) and I didn't get
+commit credit. Why? Because I didn't say...yes, this line in this patch applies
+for this function or method and it does exactly what it is supposed to do so
+even I read the entire method and looked at the doc but failed to write that in
+the comment and I ended up getting no credit after spending 2 hour on that issue.
 SO in short provide a thorough feedback and not just that this works for me or I
-applied the patch and it worked fine.
+applied the patch and it worked fine. For any kind of review and not just the
+doc review..write the the review thoroughly because who doesn't like commit
+credit.
 
 
 
@@ -207,7 +212,7 @@ and they have added it to their resume? There has been some improvements made to
 user profile pages on Drupal.org for example - now it shows commit mention on
  number of issues that has been marked fixed during the last 3 month.  I think
  its a huge improvement because we do recognize the value of having a nicer
- user profile pages on D.O
+ user profile pages with valuable information on D.O
 
 
 
@@ -235,8 +240,10 @@ they want to but they spend time with participants and help them work on issues.
 Note:
 - KG
 - This is screenshot of my profile page. As you can see I have listed some
-people as my mentor and it shows that I have got commit mention on 12 issues
-that has been marked fixed during the last 3 month.
+people as my mentor and some people listed me as their mentor which is a way of
+showing appreciation for me that I helped them on something.Also, my profile
+ shows that I have got commit mention on 12 issues that has been marked fixed
+ during the last 3 month.
 
 
 
@@ -247,7 +254,7 @@ Note:
 - What can we do to encourage companies to contribute their developer time to
 core? Beside drupalcores.com/companies we don't really have any place to
 recognize. Companies like to sponsor DrupalCon, camps etc because they get
-recognition. How long it took us to raise D8 Accelerate fund? D8 Accelerate is
+the exposure. How long it took us to raise D8 Accelerate fund? D8 Accelerate is
 to help release Drupal 8 by funding core developers to work on critical issues.
 There is a session on this - Paid contribution - Past, Present, and Future on
 Thursday at 1 pm. We encourage you to come and participate.
@@ -293,15 +300,20 @@ Note: @todo
 Note:
 - Val
 We talked about pain points and here are some of our suggestions to resolve some
-of the pain points ......
+of the pain points which were raised during DrupalCon LA discussion
 Get more reviewers
 Need more documentation, video, audio, walking people through issues
 Drupal workflow is very unique and it doesn't apply to other OSS projects.
 Make sure that communications that happen in IRC are summarized and documented
 on issues
-Motivation
-Time
-Empathy
+- KG
+Motivation - Find motivation to work on issues. We don't to have the experience
+where there are 100's of comments and issue go nowhere. We need more reviewers
+so the issue can move forward.
+Time - Have some time available to work on core so all of us can have time to do
+stuff outside Drupal and still enjoy working on core. I don't know if there is
+any solution for this.
+Empathy 
 
 
 
