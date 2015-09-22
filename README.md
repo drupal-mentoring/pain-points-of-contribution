@@ -286,8 +286,35 @@ Note:
 
 ## What other OSS projects are doing?
 
-<img src="apache_contributors.png" />
-Note: @todo
+<img src="custom/images/apache_contributors.png" />
+Note:
+- Recently, Apache tweeted that they passed 5000 committer/contributor mark.
+
+
+
+
+## What other OSS projects are doing?
+
+<img src="custom/images/Apache_timeline.png" />
+Note:
+- I think we can learn from other OSS projects as how they are doing things
+differently in their OSS project but I don't think this is the problem for us
+More contributors are better but goal should be to encourage repeated
+contributors.
+
+
+
+
+
+## What other OSS projects are doing?
+
+<img src="custom/images/long_tail.png" />
+photo credit: xjm
+Note:
+- As I was talking in the previous slide...you can see long tail of graph. We
+have lots of contributor with 1 to 5 commit mention but we need to encourgae
+them to become repeated contributors.
+
 
 
 
