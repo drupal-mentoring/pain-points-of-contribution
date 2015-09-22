@@ -3,7 +3,11 @@
 
 http://bit.ly/pain-points-in-drupal-community
 Note:
-- Slides and speaker notes  will be available online
+- Hello Everyone! Our session is about "Pain Points of Contribution in the
+Drupal Community". We have posted slides with speaker notes online and bit.ly
+link for our session is .....
+
+
 
 
 ## Take notes
@@ -13,14 +17,17 @@ Note:
 http://bit.ly/pain-points-learning-contributing
 
 Note:
+-bit.ly link for taking notes because more notes are better and after the
+session, Val and I will be preparing synthesis of the findings gathered here
+during the conversation
 - bit.ly links for last DrupalCon LA presentation. We encourage you to watch the
 presentation for some background information.
-- We encourage you to take notes because more notes are better
 
 
 
 
-## Kgoel
+
+## Kalpana Goel
 
 <a href="https://www.drupal.org/u/kgoel"><i class="fa fa-drupal"></i> kgoel</a>
 
@@ -79,6 +86,7 @@ go to core mentoring page - go to IRC page
 
 
 
+
 ## Difficult to keep up on IRC
 Note:
 - There is no indication of "this" user is typing so there are 3 people talking
@@ -86,11 +94,15 @@ together and for example I am asking with someone else. All this get very
 confusing.
 
 
+
+
 ## No scroll back/history
 Note:
 - There is no scroll back or history in IRC so if there was an interesting
 conversation and if we aren't there then we don't know about it not that we want
 to know but sometimes we do.
+
+
 
 
 ## Setting up bouncer costs money
@@ -113,6 +125,7 @@ issue
 
 
 
+
 ## subscribe to issue notifications in email
 
 <img src="custom/images/subscribe-core.png"  />
@@ -123,11 +136,13 @@ about the changes.
 
 
 
+
 ## https://groups.drupal.org/core/updates
 Note:
 - alternative to IRC - core updates via email, also posted on drupal.org
 already have Drupal core updates (a.k.a. "This Week in Drupal Core")
 is a weekly-to-monthly update on all the cool happenings in Drupal 8!
+
 
 
 
@@ -145,6 +160,7 @@ Reviewers - Provide valuable reviews to the issue
 
 
 
+
 ## Doc review
 Note:
 - How do we give credits to reviewers reviewing docs? Use my example - I was
@@ -156,6 +172,7 @@ entire method and looked at the doc but failed to write that in the comment and
 I ended up getting no credit after spending 2 hour on that issue.
 SO in short provide a thorough feedback and not just that this works for me or I
 applied the patch and it worked fine.
+
 
 
 
@@ -181,8 +198,10 @@ they want to but they spend time with participants and help them work on issues.
 
 
 
+
 ## User profile
 <img src="custom/images/bio-1.png" class="fragment" />
+
 
 
 
@@ -192,6 +211,8 @@ Note:
 - This is screenshot of my profile page. As you can see I have listed some
 people as my mentor and it shows that I have got commit mention on 12 issues
 that has been marked fixed during the last 3 month.
+
+
 
 
 ## Encourage companies to contribute their developer time
@@ -208,7 +229,7 @@ Thursday at 1 pm. We encourage you to come and participate.
 
 
 
-## cost of using OSS is giving back to the community.
+## Cost of using OSS is giving back to the community
 
 Note:
 What about contributors? All of us have responsibilities and have limited time
@@ -220,9 +241,11 @@ There is a BoF on increasing contribution in OSS on Thursday at 11:45 AM
 
 
 
+
 ## Is your employer looking to hire any core developer?
 http://www.drupalcoredevelopers.com/
 Note:
+
 
 
 
@@ -235,6 +258,9 @@ Note:
 
 
 ## Suggestions
+Note:
+We talked about pain points and here are some of our suggestions to resolve some
+of the pain points ......
 Get more reviewers
 Need more documentation, video, audio, walking people through issues
 Drupal workflow is very unique and it doesn't apply to other OSS projects.
@@ -243,9 +269,7 @@ on issues
 Motivation
 Time
 Empathy
-Note:
-We talked about pain points and here are some of our suggestions to resolve some
-of the pain points ......
+
 
 
 
