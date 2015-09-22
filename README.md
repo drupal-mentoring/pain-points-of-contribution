@@ -146,6 +146,16 @@ Reviewers - Provide valuable reviews to the issue
 
 
 ## Doc review
+Note:
+- How do we give credits to reviewers reviewing docs? Use my example - I was
+reviewing doc issue for one of the safemarkup issue and I said I reviewed the
+doc and talked to contributor(who wrote the patch) in-person and I didn't get
+commit credit. Why? Because I didn't say...yes, this line in this patch for this
+function or method does exactly what it is supposed to do so even I read the
+entire method and looked at the doc but failed to write that in the comment and
+I ended up getting no credit after spending 2 hour on that issue.
+SO in short provide a thorough feedback and not just that this works for me or I
+applied the patch and it worked fine. 
 
 
 
