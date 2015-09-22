@@ -1,7 +1,7 @@
 ## Pain Points of Contribution in the Drupal Community
 
 
-bit.ly/pain-points-in-drupal-community
+[bit.ly/pain-points-in-drupal-community](bit.ly/pain-points-in-drupal-community)
 Note:
 - KG
 - Hello Everyone! We are going to talk about "Pain Points of Contribution in the
