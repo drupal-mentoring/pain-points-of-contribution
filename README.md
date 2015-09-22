@@ -6,10 +6,15 @@ Note:
 - Slides and speaker notes available online
 
 ## Take notes[http://bit.ly/pain-points-contribution](http://bit.ly/pain-points-contribution)
+Note:
+- We encourage you to take notes because more notes are better
 
 
 
 ## http://bit.ly/pain-points-learning-contributing
+Note:
+- bit.ly links for last DrupalCon LA presentation. We encourage you to watch the
+presentation for some background information.
 
 
 
@@ -19,6 +24,10 @@ Note:
 
 <a href="https://twitter.com/kalpanagoel"><i class="fa fa-twitter"></i> kalpanagoel</a>
 
+Note:
+- Developer at Forum One
+- Forum One is full service digital agency and does lot of work in Drupal for
+Government and non-profit organizations.
 
 
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
@@ -39,7 +48,9 @@ Note:
 <!-- .element: class="heading" -->
 
 Note:
-- About presenter
+- Contribution is not necessarily just code contribution but contribution is
+   organizing sprints,camps, meet ups, documentation, manual testing, design review, UX but here we are going to
+   talk mainly about code contribution.
 
 
 
@@ -61,16 +72,15 @@ Note:
 
 
 ## Setting up bouncer costs money
+Note - Setting up bouncer costs money and it requires technical steps to set it up
 
 
 
 ## Exploring Alternatives
 drupal.org/node/2490332
 Evaluate whether to replace drupal IRC channels with another communication medium
-
-
-
-## Need an easier way to communicate.
+Note -
+Need an easier way to communicate
 
 
 
@@ -116,7 +126,8 @@ Contributors can add mentors at the end of the sprint.
 ## Encourage companies to contribute their developer time?
  cost of using OSS is giving back to the community.
 
-
+Note:
+There is a BoF on increasing contribution in OSS on Thursday at 11:45 AM
 
 
 ## Suggestions
