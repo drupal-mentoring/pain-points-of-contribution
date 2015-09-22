@@ -334,7 +334,7 @@ Need more documentation, video, audio, walking people through issues
 Drupal workflow is very unique and it doesn't apply to other OSS projects.
 Make sure that communications that happen in IRC are summarized and documented
 on issues
-- KG
+KG
 Motivation - Find motivation to work on issues. We don't to have the experience
 where there are 100's of comments and issue go nowhere. We need more reviewers
 so the issue can move forward.
