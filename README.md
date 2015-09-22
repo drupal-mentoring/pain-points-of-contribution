@@ -84,17 +84,6 @@ and our day to day interaction occur in IRC related to issues in the issue queue
 
 
 
-## How do I use IRC?
-drupal.org/irc
-Note:
-- KG
-- Concern for many of the user is - How do I connect to IRC, what channels
- should I be in?
-- supposed way to IRC channel for a new person: search for 'start contributing',
-go to core mentoring page - go to IRC page
-
-
-
 
 ## Difficult to keep up on IRC
 Note:
@@ -123,6 +112,18 @@ Note:
  - Setting up bouncer costs money and it requires technical steps to set it up.
  Although it's easier later once you have set it up but initially it takes time
  money.
+
+
+
+
+## How do I use IRC?
+drupal.org/irc
+Note:
+- KG
+- Concern for many of the user is - How do I connect to IRC, what channels
+ should I be in?
+- supposed way to IRC channel for a new person: search for 'start contributing',
+go to core mentoring page - go to IRC page
 
 
 
