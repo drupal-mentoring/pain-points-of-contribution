@@ -131,7 +131,7 @@ is a weekly-to-monthly update on all the cool happenings in Drupal 8!
 
 
 
-## How do we recognize contribution?
+## How do we recognize contribution
 drupal.org/node/2230579
 Allow crediting reviewers (and other non-coders) as first-class contributors
 Note:
@@ -172,7 +172,7 @@ user profile pages on Drupal.org for example - now it shows commit mention on
 
 
 
-## Credit to mentors?
+## Credit to mentors
 Note:
 - Contributors can add mentors at the end of the sprint so whoever is planning
 on attending sprints on Friday, please add mentors to your profile page so they
@@ -194,58 +194,35 @@ people as my mentor and it shows that I have got commit mention on 12 issues
 that has been marked fixed during the last 3 month.
 
 
-## Encourage companies to contribute their developer time?
+## Encourage companies to contribute their developer time
+Note:
+- What can we do to encourage companies to contribute their developer time to
+core? Beside drupalcores.com/companies we don't really have any place to
+recognize. Companies like to sponsor DrupalCon, camps etc because they get
+recognition. How long it took us to raise D8 Accelerate fund? D8 Accelerate is
+to help release Drupal 8 by funding core developers to work on critical issues.
+There is a session on this - Paid contribution - Past, Present, and Future on
+Thursday at 1 pm. We encourage you to come and participate.
+
+
 
 
 
 ## cost of using OSS is giving back to the community.
 
 Note:
+What about contributors? All of us have responsibilities and have limited time
+but we do want to work on core so time is a big factor for most of the
+contributors. Also, money is another factor. Most of us have full-time jobs and
+responsibilities. We would like to help writing patch, review etc so how can
+we find time and money to support and contribute back to the community.
 There is a BoF on increasing contribution in OSS on Thursday at 11:45 AM
 
 
-## Suggestions
 
-
-
-
-## Get more reviewers
-
-
-
-
-##  Need more documentation, video, audio, walking people through issues
-
-
-
-
-
-## Drupal workflow is very unique and it doesn't apply to other OSS projects.
-
-
-
-
-
-## Make sure that communications that happen in IRC are summarized and documented on issues
-
-
-
-
-
-## Motivation?
-
-
-
-
-
-## Time?
-
-
-
-
-
-## Empathy
-
+## Is your employer looking to hire any core developer?
+http://www.drupalcoredevelopers.com/
+Note:
 
 
 
@@ -256,11 +233,29 @@ There is a BoF on increasing contribution in OSS on Thursday at 11:45 AM
 
 
 
-## Is your employer looking to hire any core developer? http://www.drupalcoredevelopers.com/
+
+## Suggestions
+Get more reviewers
+Need more documentation, video, audio, walking people through issues
+Drupal workflow is very unique and it doesn't apply to other OSS projects.
+Make sure that communications that happen in IRC are summarized and documented
+on issues
+Motivation
+Time
+Empathy
+Note:
+We talked about pain points and here are some of our suggestions to resolve some
+of the pain points ......
 
 
 
 
+## Please don't forget to rate our session
 
 
 
+## Please come to the sprints on Friday
+
+
+
+## Thank You!
