@@ -75,7 +75,8 @@ Note:
 
 
 ## Setting up bouncer costs money
-Note - Setting up bouncer costs money and it requires technical steps to set it up
+Note:
+ - Setting up bouncer costs money and it requires technical steps to set it up
 
 
 
@@ -94,19 +95,17 @@ Need an easier way to communicate
 
 
 
-## subscribe to issue notifications in email
-
-<img src="custom/images/subscribe-mtq.png" />
-
-
-
 ## https://groups.drupal.org/core/updates
+Note:
+- alternative to IRC - core updates via email, also posted on drupal.org
+already have Drupal core updates (a.k.a. "This Week in Drupal Core")
+is a weekly-to-monthly update on all the cool happenings in Drupal 8!
 
 
 
 ## How do we recognize contribution?
 www.drupal.org/node/2230579
-[policy, no patch] Allow crediting reviewers (and other non-coders) as first-class contributors
+Allow crediting reviewers (and other non-coders) as first-class contributors
 
 
 
