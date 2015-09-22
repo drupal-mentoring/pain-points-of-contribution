@@ -20,8 +20,8 @@ bit.ly/pain-points-learning-contributing
 Note:
 - KG
 -bit.ly link for taking notes because more notes are better and after the
-session, Val and I will be preparing synthesis of the findings gathered here
-during the conversation
+session, Val and I will be preparing synthesis.
+
 - bit.ly links for last DrupalCon LA presentation. We encourage you to watch the
 presentation for some background information.
 
