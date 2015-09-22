@@ -4,7 +4,7 @@
 http://bit.ly/pain-points-in-drupal-community
 Note:
 - KG
-- Hello Everyone! Our session is about "Pain Points of Contribution in the
+- Hello Everyone! We are going to talk about "Pain Points of Contribution in the
 Drupal Community". We have posted slides with speaker notes online and bit.ly
 link for our session is .....
 
@@ -167,7 +167,7 @@ drupal.org/node/2230579
 Allow crediting reviewers (and other non-coders) as first-class contributors
 Note:
 - Val
-- In this note, we are talking about categorizing comment as review
+- In this issue, we are talking about categorizing comment as review
 types -
 Research - how things are done in Drupal, why it is broken and how other
 projects accomplish something.
