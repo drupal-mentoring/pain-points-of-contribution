@@ -266,6 +266,12 @@ Thursday at 1 pm. We encourage you to come and participate.
 
 
 
+## Companies
+<img src="custom/images/companies.png" />
+
+
+
+
 
 ## Cost of using OSS is giving back to the community
 
