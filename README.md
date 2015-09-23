@@ -88,6 +88,8 @@ Note:
 - KG
 - Concern for many of the user is - How do I connect to IRC, what channels
  should I be in?
+ drupal.org/irc has list of IRC channels and this information is not available
+ on drupal.org homepage.
 - supposed way to IRC channel for a new person: search for 'start contributing',
 go to core mentoring page - go to IRC page
 
@@ -118,7 +120,8 @@ to know but sometimes we do.
 ## Setting up bouncer costs money
 Note:
 - KG
- - What is a bouncer?
+ - What is a bouncer? Bouncer is a piece of software running on remote servers.
+ Advantage of bouncer - you are always connected on IRC.
  - Setting up bouncer costs money and it requires technical steps to set it up.
  Although it's easier later once you have set it up but initially it takes time
 and money.
@@ -134,9 +137,10 @@ Evaluate whether to replace drupal IRC channels with another communication
 medium
 Note:
 - KG
-- Need an easier way to communicate?
+- Need an easier way to communicate? In this issue community is exploring
+options to use some other chat app instead of IRC.
 Waartaa (OSS), Slack, Hipchat are some of the options being discussed in this
-issue
+issue.
 
 
 
@@ -170,7 +174,7 @@ Allow crediting reviewers (and other non-coders) as first-class contributors
 Note:
 - Val
 - In this issue, we are talking about categorizing comment as review
-types -
+types
 Research - how things are done in Drupal, why it is broken and how other
 projects accomplish something.
 Proposal - If someone propose a idea or a specific architectural change
@@ -240,7 +244,7 @@ Note:
 people as my mentor and some people listed me as their mentor which is a way of
 showing appreciation for me that I helped them on something.Also, my profile
  shows that I have got commit mention on 12 issues that has been marked fixed
- during the last 3 month. This is a new feature. Commit credits that are older
+ during the last 3 month. This is a new feature.
 
 
 
@@ -250,7 +254,10 @@ Note:
 - KG
 - What can we do to encourage companies to contribute their developer time to
 core? Beside drupalcores.com/companies we don't really have any place to
-recognize. Companies like to sponsor DrupalCon, camps etc because they get
+recognize core contribution. There is an option to check company name if
+contributor is working on issue and I think there is a plan in the pipeline
+to display name of the companies somewhere on drupal.org.Companies like to
+ sponsor DrupalCon, camps etc because they get
 the exposure. How long it took us to raise D8 Accelerate fund? D8 Accelerate is
 to help release Drupal 8 by funding core developers to work on critical issues.
 There is a session on this - Paid contribution - Past, Present, and Future on
@@ -304,7 +311,7 @@ contributors.
 Note:
 - As I was talking in the previous slide...you can see long tail of graph. We
 have lots of contributor with 1 to 5 commit mention but we need to encourage
-them to be repeated contributors. This graph is little old because we do have
+them to become repeated contributors. This graph is little old because we do have
 3150 core contributors.
 
 
