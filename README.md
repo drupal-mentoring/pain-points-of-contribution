@@ -1,29 +1,28 @@
-## Pain Points of Contribution in the Drupal Community
+# Pain Points of Contribution in the Drupal Community
 
 
-[bit.ly/pain-points-in-drupal-community](bit.ly/pain-points-in-drupal-community)
+
 Note:
 - KG
 - Hello Everyone! We are going to talk about "Pain Points of Contribution in the
-Drupal Community". We have posted slides with speaker notes online and bit.ly
-link for our session is .....
+Drupal Community".
 
 
 
 
-## Take notes
+## Notes
 [bit.ly/pain-points-contribution](bit.ly/pain-points-contribution)
 
-### DrupalCon LA presentation
-[bit.ly/pain-points-learning-contributing](bit.ly/pain-points-learning-contributing)
+## Slides
+[bit.ly/pain-points-in-drupal-community](bit.ly/pain-points-in-drupal-community)
 
 Note:
 - KG
 -bit.ly link for taking notes because more notes are better and after the
 session, Val and I will be preparing synthesis.
+We have posted slides with speaker notes online and bit.ly
+link for our session is. You can follow along the slides. 
 
-- bit.ly links for last DrupalCon LA presentation. We encourage you to watch the
-presentation for some background information.
 
 
 
@@ -37,6 +36,7 @@ presentation for some background information.
 
 Note:
 - KG
+I am from Washington D.C.
 - Developer at Forum One
 - Forum One is full service digital agency and does lot of work in Drupal for
 Government and non-profit organizations.
@@ -243,7 +243,7 @@ Note:
 people as my mentor and some people listed me as their mentor which is a way of
 showing appreciation for me that I helped them on something.Also, my profile
  shows that I have got commit mention on 12 issues that has been marked fixed
- during the last 3 month.
+ during the last 3 month. This is a new feature. Commit credits that are older
 
 
 
@@ -341,7 +341,7 @@ so the issue can move forward.
 Time - Have some time available to work on core so all of us can have time to do
 stuff outside Drupal and still enjoy working on core. I don't know if there is
 any solution for this.
-Empathy
+
 
 
 
