@@ -8,10 +8,10 @@ Drupal Community".
 
 
 ## Notes
-[bit.ly/pain-points-contribution-notes](bit.ly/pain-points-contribution-notes)
+[bit.ly/pain-points-notes](http://bit.ly/pain-points-notes)
 
 ## Slides
-[bit.ly/pain-points-of-contribution](http://bit.ly/pain-points-of-contribution)
+[bit.ly/pain-points-slides](http://bit.ly/pain-points-slides)
 
 Note:
 - KG
