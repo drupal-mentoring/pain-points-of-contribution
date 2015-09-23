@@ -1,7 +1,4 @@
 # Pain Points of Contribution in the Drupal Community
-
-
-
 Note:
 - KG
 - Hello Everyone! We are going to talk about "Pain Points of Contribution in the
@@ -14,14 +11,14 @@ Drupal Community".
 [bit.ly/pain-points-contribution](bit.ly/pain-points-contribution)
 
 ## Slides
-[bit.ly/pain-points-in-drupal-community](bit.ly/pain-points-in-drupal-community)
+[bit.ly/pain-points-of-contribution](http://bit.ly/pain-points-of-contribution)
 
 Note:
 - KG
 -bit.ly link for taking notes because more notes are better and after the
 session, Val and I will be preparing synthesis.
 We have posted slides with speaker notes online and bit.ly
-link for our session is. You can follow along the slides. 
+link for our session is. You can follow along the slides.
 
 
 
