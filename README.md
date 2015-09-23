@@ -55,7 +55,7 @@ Note:
 
 <!-- .element: class="heading" -->
 <!-- .slide: data-background="custom/images/mentoring.jpg"  data-state="show-header" data-header="" -->
-## What is contribution
+## Contribution
 <!-- .element: class="heading" -->
 
 Note:
