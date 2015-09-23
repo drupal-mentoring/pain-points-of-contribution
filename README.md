@@ -83,7 +83,7 @@ and our day to day interaction occur in IRC related to issues in the issue queue
 
 
 ## How people learn about IRC?
-drupal.org/irc
+[drupal.org/irc](https://drupal.org/irc)
 Note:
 - KG
 - Concern for many of the user is - How do I connect to IRC, what channels
@@ -316,6 +316,7 @@ them to be repeated contributors. This graph is little old because we do have
 * Documentation
 * Workflow
 * Communication
+* Motivation
 Note:
 - Val
 We talked about pain points and here are some of our suggestions to resolve some
