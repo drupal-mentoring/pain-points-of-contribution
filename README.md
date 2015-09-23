@@ -8,7 +8,7 @@ Drupal Community".
 
 
 ## Notes
-[bit.ly/pain-points-contribution](bit.ly/pain-points-contribution)
+[bit.ly/pain-points-contribution-notes](bit.ly/pain-points-contribution-notes)
 
 ## Slides
 [bit.ly/pain-points-of-contribution](http://bit.ly/pain-points-of-contribution)
@@ -19,8 +19,6 @@ Note:
 session, Val and I will be preparing synthesis.
 We have posted slides with speaker notes online and bit.ly
 link for our session is. You can follow along the slides.
-
-
 
 
 
