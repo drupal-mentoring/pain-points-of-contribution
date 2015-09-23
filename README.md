@@ -82,7 +82,7 @@ and our day to day interaction occur in IRC related to issues in the issue queue
 
 
 
-## How do I use IRC?
+## How people learn about IRC?
 drupal.org/irc
 Note:
 - KG
