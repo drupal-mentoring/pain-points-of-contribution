@@ -128,7 +128,8 @@ and money.
 
 
 ## Exploring Alternatives
-drupal.org/node/2490332
+[drupal.org/node/2490332](http://drupal.org/node/2490332)
+
 Evaluate whether to replace drupal IRC channels with another communication
 medium
 Note:
@@ -152,7 +153,7 @@ about the changes.
 
 
 
-## https://groups.drupal.org/core/updates
+## [groups.drupal.org/core/updates](http://groups.drupal.org/core/updates)
 Note:
 - Val
 - alternative to IRC - core updates via email, also posted on drupal.org
@@ -163,7 +164,8 @@ is a weekly-to-monthly update on all the cool happenings in Drupal 8!
 
 
 ## How do we recognize contribution
-drupal.org/node/2230579
+[drupal.org/node/2230579](http://drupal.org/node/2230579)
+
 Allow crediting reviewers (and other non-coders) as first-class contributors
 Note:
 - Val
@@ -198,7 +200,7 @@ credit.
 
 
 
-## https://www.drupal.org/node/2281763
+## [www.drupal.org/node/2281763](https://www.drupal.org/node/2281763)
 make profiles better [Meta] New design for User Profiles
 Note:
 - KG
@@ -272,13 +274,6 @@ There is a BoF on increasing contribution in OSS on Thursday at 11:45 AM
 
 
 
-## Is your employer looking to hire any core developer?
-http://www.drupalcoredevelopers.com/
-Note:
-
-
-
-
 ##Other OSS projects
 
 <img src="custom/images/apache_contributors.png" />
@@ -304,7 +299,8 @@ contributors.
 ## Long tail graph
 
 <img src="custom/images/long_tail.png" />
-photo credit: xjm
+
+<small>photo credit: xjm</small>
 Note:
 - As I was talking in the previous slide...you can see long tail of graph. We
 have lots of contributor with 1 to 5 commit mention but we need to encourage
@@ -339,17 +335,12 @@ any solution for this.
 
 
 
-
-
-
-## Please don't forget to rate our session
-
-bit.ly/pain-points-in-drupal-community
-
-
-
 ## Please come to the sprints on Friday
 
 
 
+
 ## Thank You!
+## Don't forget to rate our session
+
+[bit.ly/pain-points-in-drupal-community](http://bit.ly/pain-points-in-drupal-community)
